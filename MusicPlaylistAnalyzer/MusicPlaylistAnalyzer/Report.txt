@@ -1,2 +1,22 @@
 Music Playlist Report
 
+Songs that received 200 or more plays:
+Name: Wrecking Ball, Artist: Miley Cyrus, Album: Bangerz(Deluxe Version), Genre: Pop, Size: 8.1 MB, Time: 341, Year: 2013, Plays: 225
+Name: Counting Stars, Artist:OneRepublic, Album: Native(Deluxe Version), Genre: Pop, Size: 8.7 MB, Time: 417, Year: 2007, Plays: 345
+Name: Classic, Artist: MKTO, Album: MKTO Genre: Pop, Size:6.1 MB , Time: 255, Year: 2013, Plays: 312
+
+Number of Alternative songs: 2
+
+Number of Hip-Hop/Rap songs: 2
+
+Songs from the album Welcome to the Fishbowl:
+
+
+Songs from before 1970:
+
+
+Song names longer than 85 characters:
+“Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)”
+
+Longest song: Name: I'll be missing you, Artist: Puff Daddy & Faith Evans, Album: Bad Boy's 10th Anniversary... The Hits, Genre: R&B/Soul, Size: 4.8 MB, Time: 502, Year: 1997, Plays: 121
+
